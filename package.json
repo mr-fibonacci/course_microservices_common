@@ -1,0 +1,20 @@
+{
+  "name": "@altickets/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-fibonacci/course_microservices_common.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-fibonacci/course_microservices_common/issues"
+  },
+  "homepage": "https://github.com/mr-fibonacci/course_microservices_common#readme"
+}
